@@ -3,6 +3,6 @@
   <title>CI Demo</title>
  </head>
  <body>
- <?php echo '<p>Petit Hello World basique</p>'; echo '<p>Vilain Gabriel</p>'; ?> 
+ <?php echo '<p>Petit Hello World basique</p>'; echo '<p>Test</p>'; ?> 
  </body>
 </html>
